@@ -1,5 +1,9 @@
 # 🧩📷 Quebra-Cabeça ArUco – Entretenimento com Visão Computacional
 
+*_Autor: Junior Oliveira_* [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/Junior0liveir4)
+
+---
+
 Este projeto é uma aplicação interativa que usa **marcadores ArUco** para montar dinamicamente um **quebra-cabeça com 15 peças**. Cada marcador detectado ativa a sobreposição de uma imagem correspondente em tempo real, criando um jogo visual de montagem baseado em visão computacional.
 
 Desenvolvido no **LabSEA (IFES - Guarapari)**, o projeto consome imagens transmitidas por um dos **gateways de câmera via RabbitMQ**, e roda localmente em Python com OpenCV.
